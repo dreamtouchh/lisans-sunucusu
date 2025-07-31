@@ -1,0 +1,16 @@
+{
+  "keys": {
+    "ABCDE12345": {
+      "used": true,
+      "createdAt": "2025-07-31"
+    },
+    "FGHIJ67890": {
+      "used": false,
+      "createdAt": "2025-07-31"
+    },
+    "DENEME-KEY-001": {
+      "used": false,
+      "createdAt": "2025-07-31"
+    }
+  }
+}
